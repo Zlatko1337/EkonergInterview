@@ -16,6 +16,10 @@ To run:
 
 1.Run .exe or .jar (java -jar EkonergInterview.jar)
 
+OR
+
+2.Import as Maven project in IDE of your choice and run EkonergInterviewApplication.java  
+
 
 In case of problems:
 
