@@ -1,0 +1,18 @@
+1. Poslane podatke iz Excel datoteke prebaciti u bazu podataka.
+2. Izraditi web aplikaciju koja sadrži minimalno sljedeće funkcionalnosti:
+a. prikaz tri županije s najvećim brojem stanovnika i tri s najmanjim brojem stanovnika
+(posebno naznačiti županije s najvećim i najmanjim brojem stanovnika)
+b. prikaz naselja s brojem stanovnika za odabranu županiju
+c. izmjena broja stanovnika za određeno naselje
+d. brisanje županije (brisanjem županije brišu se i sva naselja u toj županiji)
+e. promjena naziva županije
+f. za svaki zapis postoji praćenje vremena zadnje promjene koji se prikazuje uz njega
+g. sve vrijednosti su lokalizirane (numeričke, datumi …)
+
+Preporučene tehnologije: SQL, EJB, JPA, CDI, JAX-RS, Servlet, JavaScript, jQuery, Bootstrap, Apache
+FreeMarker.
+Nije obavezno koristiti sve preporučene tehnologije niti je odabir ograničen samo na njih.
+
+Damir Hotko, Ekonerg
+
+Podaci su u datoteci podaci.xslx u formi u kojoj su inicijalno dostavljeni .
