@@ -1,6 +1,6 @@
 Coding challenge for company Ekonerg, Java developer position.
 Not a production grade code its just for demo purpose... For simplicity there is no proper exception handeling, DTO to DAO mapping, service layer etc. I know, i have Sonar ;)
-Made with: Spring framework (boot, data, jpa), Fremarker, H2 DB, Apache POI, Bootstrap..
+Made with: Spring framework (boot, data, jpa), Apache Fremarker, H2 DB, Apache POI, Bootstrap, Javascript, jQuery ..
 Task that was given is defined in /resources/task folder.
 
 To build:
