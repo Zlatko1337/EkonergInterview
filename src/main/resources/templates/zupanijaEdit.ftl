@@ -7,7 +7,7 @@
 			<input class="form-control" type="text" id="naziv" name="naziv" placeholder="Unesi naziv" value="${zupanija.naziv}"> 
 		</div><br>
 		
-		<button type="submit" class="btn btn-primary">Submit</button>
+		<button type="submit" class="btn btn-primary">Save</button>
 		<button type="submit" class="btn btn-primary" formaction="/zupanija/delete/${zupanija.id}">Delete</button>
 	</form>
 

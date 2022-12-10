@@ -6,7 +6,7 @@
 			<input class="form-control" type="text" id="brojStanovnika" name="brojStanovnika" placeholder="Unesi broj stanovnika" value="${naselje.brojStanovnika}"> 
 		</div><br>
 		
-		<button type="submit" class="btn btn-primary">Submit</button>
+		<button type="submit" class="btn btn-primary">Save</button>
 	</form>
 
 </@layout>
