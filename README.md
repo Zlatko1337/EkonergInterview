@@ -26,3 +26,6 @@ In case of problems:
 2.taskkill /F /PID pid_id
 
 3.Run .exe or .jar
+
+TIP:
+Access h2 console standard way at http://localhost:8080/h2-console after running the program.
