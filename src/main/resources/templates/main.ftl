@@ -28,7 +28,7 @@
 			<table class="table table-hover table-dark ">
 				<thead>
 					<tr>
-						<th>Županije</th>
+						<th>Županija</th>
 					</tr>
 				</thead>
 				<tbody>			
