@@ -4,8 +4,8 @@
 	
 	<div class="row">
 		<div class="col-sm-4 col-md-4 col-lg-4">
-			<table class="table table-hover table-dark">
-				<thead>
+			<table class="table table-hover table-dark table-bordered">
+				<thead class="thead-dark">
 					<tr>
 						<th>Top 3 županije po broju stanovnika</th>
 					</tr>
@@ -23,8 +23,8 @@
 	
 	<br>
 	
-	<div class="row">
-		<div class="col-sm-3 col-md-3 col-lg-3">
+	<div class="row" style="border:1px solid #cecece;">
+		<div class="col-sm-3 col-md-3 col-lg-3" style="border:1px solid #cecece;">
 			<table class="table table-hover table-dark">
 				<thead>
 					<tr>
