@@ -1,6 +1,6 @@
 <@layout>
 
-	<h4>Zupanija ${zupanija.naziv}</h4>
+	<h4 style="color:white;">Zupanija ${zupanija.naziv}</h4>
 	<form action="/zupanija/${zupanija.id}" method="post">		
 		<div class="form-group">
 			<label for="naziv">Naziv</label>

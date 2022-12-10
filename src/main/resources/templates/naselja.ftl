@@ -1,5 +1,5 @@
 <div class="col-sm-3 col-md-9 col-lg-9">
-	<table class="table table-hover">
+	<table class="table table-hover table-dark">
 		<thead>
 			<tr>
 				<th>Naselje</th>

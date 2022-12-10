@@ -4,7 +4,7 @@
 	
 	<div class="row">
 		<div class="col-sm-4 col-md-4 col-lg-4">
-			<table class="table table-hover">
+			<table class="table table-hover table-dark">
 				<thead>
 					<tr>
 						<th>Top 3 županije po broju stanovnika</th>
@@ -25,7 +25,7 @@
 	
 	<div class="row">
 		<div class="col-sm-3 col-md-3 col-lg-3">
-			<table class="table table-hover">
+			<table class="table table-hover table-dark">
 				<thead>
 					<tr>
 						<th>Županije</th>

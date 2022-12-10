@@ -10,7 +10,7 @@
     <script src="webjars/jquery/jquery.min.js"></script>
 </head>
 
-<body>
+<body style="background-color:#212529;">
     <nav class="navbar navbar-default">
         <div class="container">
             <div id="navbar" class="collapse navbar-collapse">
