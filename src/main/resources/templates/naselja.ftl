@@ -1,4 +1,4 @@
-<div class="col-sm-3 col-md-9 col-lg-9">
+<div class="col-sm-3 col-md-9 col-lg-9 border-start">
 	<table class="table table-hover table-dark">
 		<thead>
 			<tr>

@@ -23,9 +23,9 @@
 	
 	<br>
 	
-	<div class="row" style="border:1px solid #cecece;">
-		<div class="col-sm-3 col-md-3 col-lg-3" style="border:1px solid #cecece;">
-			<table class="table table-hover table-dark">
+	<div class="row border-right border-top">
+		<div class="col-sm-3 col-md-3 col-lg-3">
+			<table class="table table-hover table-dark ">
 				<thead>
 					<tr>
 						<th>Županije</th>
