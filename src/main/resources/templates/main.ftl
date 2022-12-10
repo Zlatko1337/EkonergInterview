@@ -3,8 +3,8 @@
 	<script src="js/main.js"></script>
 	
 	<div class="row">
-		<div class="col-sm-4 col-md-4 col-lg-4">
-			<table class="table table-hover table-dark table-bordered">
+		<div class="col-sm-4 col-md-4 col-lg-4 border">
+			<table class="table table-hover table-dark">
 				<thead class="thead-dark">
 					<tr>
 						<th>Top 3 županije po broju stanovnika</th>
